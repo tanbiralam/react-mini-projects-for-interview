@@ -1,3 +1,6 @@
+// Explain the concept of an accordion interface in a web application context. In the context of React, how would you design a component that supports both single-selection and multi-selection modes within an accordion interface? Discuss the key considerations and challenges you might encounter while implementing such functionality.
+
+
 // Approach: Let's first create a component so that we can use it further in differeent places of the application. There will be two type of accordion. 1st will be single selection 2nd will be multi selection
 
 import { useState } from "react";
